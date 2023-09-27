@@ -103,7 +103,7 @@ fractions of hours; for example, a call made at 9:30 would be recorded as ‘9.5
 Note: when calculating arrival times, you may simply assume that no time elapsed outside of working
 hours. Hence, the time between a call at 16:45 om day 1 and 8:15 on day 2 is simply a half an hour.
 
-##5 Assignment
+## 5 Assignment
 Write a report of at most 10 pages (not including appendices) on both the data analysis as well
 as the analysis of the two policies. Make sure that the report has a decent introduction, body
 and conclusions. Write the report in such a way that that that was the full story of your analysis,
