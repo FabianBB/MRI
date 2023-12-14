@@ -1,4 +1,8 @@
+
+
 # MRI
+
+## DataAnalysis.ipynb has the determination of the unknown distributions, but the more complete analysis is in Statistical_Analysis.R
 
 A case study on scheduling MRI facilities
 Computational Research Skills (EBS4043/EBS4044)
